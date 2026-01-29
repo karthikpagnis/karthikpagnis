@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @karthikpagnis
-- 👀 I’m interested in Python, Web development, Machine learning, Artificial Intelligence
-- 🌱 I’m currently learning Pyhton, Web development
-- 💞️ I’m looking to collaborate on Web development
+- 👀 I’m interested in Python, Machine learning, Artificial Intelligence
 - 📫 How to reach me Linkedin - linkedin.com/in/karthik-pagnis/ | Twitter - https://twitter.com/karthikpagnis
 - Business and technology enthusiast, love to work on programming projects
 
