@@ -9,14 +9,14 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ### AI/ML Frameworks
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="60" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="60" />
-  <img src="https://ollama.com/public/ollama-logo.svg" width="60" />
+  <img src="assets/pytorch.svg" width="60" />
+  <img src="assets/tensorflow.svg" width="60" />
+  <img src="assets/keras.svg" width="60" />
+  <img src="assets/python.svg" width="60" />
+  <img src="assets/scikit-learn.svg" width="60" />
+  <img src="assets/xgboost.svg" width="60" />
+  <img src="assets/huggingface.png" width="60" />
+  <img src="assets/ollama.png" width="60" />
 </p>
 
 - PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Hugging Face, Ollama
@@ -24,7 +24,7 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ### Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60" />
+  <img src="assets/scikit-learn.svg" width="60" />
 </p>
 
 - Model Training, Model Evaluation, Feature Engineering, Hyperparameter Tuning
@@ -32,10 +32,12 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ### Generative AI
 
 <p align="left">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="60" />
-  <img src="https://ollama.com/public/ollama-logo.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+  <img src="assets/huggingface.png" width="60" />
+  <img src="assets/ollama.png" width="60" />
+  <img src="assets/langchain.png" width="60" />
+  <img src="assets/langgraph.png" width="60" />
+  <img src="assets/fastapi.svg" width="60" />
+  <img src="assets/python.svg" width="60" />
 </p>
 
 - LLMs, FASTAPI, RAG, LangChain, LangGraph, Vector Databases, Prompt Engineering, Fine-tuning, Hugging Face, Ollama
@@ -43,13 +45,11 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ### Deep Learning / NLP / CV
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" width="60" />
+  <img src="assets/pytorch.svg" width="60" />
+  <img src="assets/tensorflow.svg" width="60" />
+  <img src="assets/keras.svg" width="60" />
+  <img src="assets/python.svg" width="60" />
+  <img src="assets/opencv.svg" width="60" />
 </p>
 
 - CNN, RNN, Transformers, Attention Mechanisms, SpaCy, NLTK, OpenCV, Pillow, VGG, ResNet
@@ -57,10 +57,10 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ### Data Science
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="60" />
+  <img src="assets/pandas.svg" width="60" />
+  <img src="assets/numpy.svg" width="60" />
+  <img src="assets/matplotlib.svg" width="60" />
+  <img src="assets/seaborn.svg" width="60" />
 </p>
 
 - EDA, Statistical Modelling, Pandas, NumPy, Matplotlib, Seaborn
@@ -68,10 +68,10 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ### Languages / Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" />
+  <img src="assets/python.svg" width="60" />
+  <img src="assets/c.svg" width="60" />
+  <img src="assets/mysql.svg" width="60" />
+  <img src="assets/sqlite.svg" width="60" />
 </p>
 
 - Python, C, SQL, MySQL
@@ -79,11 +79,11 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ### Tools / MLOps
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" />
+  <img src="assets/git.svg" width="60" />
+  <img src="assets/docker.svg" width="60" />
+  <img src="assets/linux.svg" width="60" />
+  <img src="assets/jupyter.svg" width="60" />
+  <img src="assets/vscode.svg" width="60" />
 </p>
 
 - Git, Docker, Linux/Unix, MLflow, Data Pipelines, Jupyter, VS Code, Pydantic (data validation)
