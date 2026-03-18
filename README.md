@@ -19,7 +19,6 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 ## Contact
 
 📧 Email: pagniskarthik@gmail.com  
-🌐 Portfolio: [karthikpagnis.com](https://karthikpagnis.com)  
 💼 LinkedIn: [linkedin.com/in/karthik-pagnis](https://linkedin.com/in/karthik-pagnis)  
 🐦 Twitter: [twitter.com/karthikpagnis](https://twitter.com/karthikpagnis)
 
