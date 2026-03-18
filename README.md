@@ -6,87 +6,69 @@ AI Engineer & Business Technology Enthusiast. Passionate about Python, Machine L
 
 ## Technical Skills
 
-### AI/ML Frameworks
+### Programming Languages
 
-<p align="left">
-  <img src="./assets/pytorch.svg" width="60" />
-  <img src="./assets/tensorflow.svg" width="60" />
-  <img src="./assets/keras.svg" width="60" />
-  <img src="./assets/python.svg" width="60" />
-  <img src="./assets/scikit-learn.svg" width="60" />
-  <img src="./assets/xgboost.svg" width="60" />
-  <img src="./assets/huggingface.png" width="60" />
-  <img src="./assets/ollama.png" width="60" />
-</p>
+<div>
+  <img src="./assets/python.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/c.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+</div>
 
-- PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Hugging Face, Ollama
+### Databases
 
-### Machine Learning
+<div>
+  <img src="./assets/mysql.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/sqlite.svg" width="40" height="40"/>&nbsp;
+</div>
 
-<p align="left">
-  <img src="./assets/scikit-learn.svg" width="60" />
-</p>
+### Machine Learning & AI
 
-- Model Training, Model Evaluation, Feature Engineering, Hyperparameter Tuning
+<div>
+  <img src="./assets/scikit-learn.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/tensorflow.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/pytorch.svg" width="40" height="40"/>&nbsp;
+</div>
 
-### Generative AI
+### Dev-Tools
 
-<p align="left">
-  <img src="./assets/huggingface.png" width="60" />
-  <img src="./assets/ollama.png" width="60" />
-  <img src="./assets/langchain.png" width="60" />
-  <img src="./assets/langgraph.png" width="60" />
-  <img src="./assets/fastapi.svg" width="60" />
-  <img src="./assets/python.svg" width="60" />
-</p>
-
-- LLMs, FASTAPI, RAG, LangChain, LangGraph, Vector Databases, Prompt Engineering, Fine-tuning, Hugging Face, Ollama
+<div>
+  <img src="./assets/docker.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/jupyter.svg" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+</div>
 
 ### Deep Learning / NLP / CV
 
-<p align="left">
-  <img src="./assets/pytorch.svg" width="60" />
-  <img src="./assets/tensorflow.svg" width="60" />
-  <img src="./assets/keras.svg" width="60" />
-  <img src="./assets/python.svg" width="60" />
-  <img src="./assets/opencv.svg" width="60" />
-</p>
-
-- CNN, RNN, Transformers, Attention Mechanisms, SpaCy, NLTK, OpenCV, Pillow, VGG, ResNet
+<div>
+  <img src="./assets/pytorch.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/tensorflow.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/keras.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/python.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/opencv.svg" width="40" height="40"/>&nbsp;
+</div>
 
 ### Data Science
 
-<p align="left">
-  <img src="./assets/pandas.svg" width="60" />
-  <img src="./assets/numpy.svg" width="60" />
-  <img src="./assets/matplotlib.svg" width="60" />
-  <img src="./assets/seaborn.svg" width="60" />
-</p>
+<div>
+  <img src="./assets/pandas.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/numpy.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/matplotlib.svg" width="40" height="40"/>&nbsp;
+  <img src="./assets/seaborn.svg" width="40" height="40"/>&nbsp;
+</div>
 
-- EDA, Statistical Modelling, Pandas, NumPy, Matplotlib, Seaborn
+### Generative AI (GenAI) Tools
 
-### Languages / Databases
-
-<p align="left">
-  <img src="./assets/python.svg" width="60" />
-  <img src="./assets/c.svg" width="60" />
-  <img src="./assets/mysql.svg" width="60" />
-  <img src="./assets/sqlite.svg" width="60" />
-</p>
-
-- Python, C, SQL, MySQL
-
-### Tools / MLOps
-
-<p align="left">
-  <img src="./assets/git.svg" width="60" />
-  <img src="./assets/docker.svg" width="60" />
-  <img src="./assets/linux.svg" width="60" />
-  <img src="./assets/jupyter.svg" width="60" />
-  <img src="./assets/vscode.svg" width="60" />
-</p>
-
-- Git, Docker, Linux/Unix, MLflow, Data Pipelines, Jupyter, VS Code, Pydantic (data validation)
+<div>
+  <img src="./assets/langchain.png" width="120" height="40" alt="LangChain"/>&nbsp;
+  <img src="./assets/langgraph.png" width="120" height="40" alt="LangGraph"/>&nbsp;
+  <img src="./assets/ollama.png" width="40" height="40" alt="Ollama"/>&nbsp;
+  <img src="./assets/huggingface.png" width="40" height="40" alt="Hugging Face"/>&nbsp;
+</div>
 
 ## Contact
 
